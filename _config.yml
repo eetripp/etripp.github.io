@@ -1,0 +1,21 @@
+title: "Erin Tripp"
+description: "Assistant Professor of Mathematics and Statistics, Hamilton College"
+url: "https://etripp.github.io"
+baseurl: ""
+
+# Theme — minima is clean and works out of the box
+theme: minima
+
+# Optional: enable extra Jekyll plugins supported by GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+author:
+  name: "Erin Tripp"
+  email: "etripp@hamilton.edu"
+
+header_pages:
+- index.md
+- research.md
+- teaching.md
